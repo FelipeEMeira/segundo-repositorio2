@@ -1,2 +1,3 @@
 # segundo-repositorio2
-Escrever dps
+Projeto para gestão de estudos, com flash cards interativos.
+
